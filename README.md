@@ -32,9 +32,3 @@ The models were evaluated using BLEU, BERTScore, and METEOR metrics on the WMT14
 * TorchText (Data pipelines)
 * Multi30k / WMT14 Datasets
 * Numpy & Matplotlib (Attention visualization heatmaps)
-
-## 📂 Repository Structure
-* `/notebooks`: Jupyter notebooks containing the step-by-step model training.
-* `/src`: Python scripts for isolated model classes (RNN, LSTM, GRU, Attention variants).
-* `/images`: Visualizations of training losses and attention alignment matrices.
-* `Report.pdf`: Comprehensive documentation of the mathematical foundations and error analysis.
